@@ -1,5 +1,5 @@
-# Local Pyspark Enviornment
-Pyspark docker container for experimentation
+# Distributed SMOTE Upsampling
+Pyspark implementation of SMOTE upsampling technique using Docker container
 
 
 ## Setup
